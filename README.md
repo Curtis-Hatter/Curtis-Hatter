@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Web developer with a strong five year professional background in accounting, Bachelor's degree focused in Applied Mathematics, and Professional Studies Certificate in Full Stack Web Development. Skilled in JavaScript, React, Node.js, MongoDB, Numerical Analysis, Data Structures, as well as, strong leadership, creative problem solving, attention to detail, and organization. These skills have been applied to corporate strategies that have saved my employers thousands of dollars. Motivated to build high-quality reusable code, manage cutting-edge technologies to improve applications, and master the perplexing facets of designing, developing and maintaining web applications. 
+
+To get ahold of me directly: [Email](mailto:curtis.d.hatter@gmail.com)
+
+
 <!--
 **Curtis-Hatter/Curtis-Hatter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
